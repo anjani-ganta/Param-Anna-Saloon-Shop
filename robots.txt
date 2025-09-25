@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anjani-ganta.github.io/Param-Anna-Saloon-Shop/sitemap.xml
